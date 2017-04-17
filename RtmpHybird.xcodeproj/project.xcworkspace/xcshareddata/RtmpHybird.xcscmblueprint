@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "991D8F8C5BDB49C1239017DD5A1B8B03CB2AD533",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7AC713C00C9313EB473E405C01F7D887880F4BF1" : 9223372036854775807,
+    "991D8F8C5BDB49C1239017DD5A1B8B03CB2AD533" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "440C9781-F1D6-40B6-86F7-23CC3D4C5743",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7AC713C00C9313EB473E405C01F7D887880F4BF1" : "..",
+    "991D8F8C5BDB49C1239017DD5A1B8B03CB2AD533" : "RTMPCHybirdEngine-IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RtmpHybird",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RtmpHybird.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/yangjihua\/cijishipin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7AC713C00C9313EB473E405C01F7D887880F4BF1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BoYuanZjq\/RTMPCHybirdEngine-IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "991D8F8C5BDB49C1239017DD5A1B8B03CB2AD533"
+    }
+  ]
+}
